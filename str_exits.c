@@ -1,3 +1,5 @@
+#include "shell.h"
+
 /**
  * _copyString - Copies a string
  * @destination: The destination string to copy to
